@@ -1,0 +1,1 @@
+Esse projeto tem o objetivo de orientar e incentivar práticas sustentáveis no plantio e produção. Feito por Lucas Borges do 3 ano do ensino médio do Colégio Estadual Curitiba em Paranavaí.
